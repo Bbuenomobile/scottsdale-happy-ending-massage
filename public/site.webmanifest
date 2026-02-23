@@ -1,0 +1,16 @@
+{
+    "name": "Scottsdale Happy Ending Massage",
+    "short_name": "Scottsdale Happy Ending Massage \ud83c\udf0d",
+    "description": "Find happy ending massage in Scottsdale with 2 discreet listings in our directory. Contact via phone or WhatsApp. Sessions start around 100 USD in key areas.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#e91e63",
+    "icons": [
+        {
+            "src": "/favicon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml"
+        }
+    ]
+}
